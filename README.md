@@ -1,2 +1,3 @@
 # multi-fidelity-MCMC
-Code for the paper "Multi-fidelity MCMC: a pseudo-marginal approach"
+Code examples from "Multi-fidelity MCMC: a pseudo-marginal approach"
+Diana Cai and Ryan P. Adams. NeurIPS 2022.
